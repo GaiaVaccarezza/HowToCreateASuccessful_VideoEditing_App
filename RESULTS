@@ -1,0 +1,41 @@
+Given our analysis, it is advisable to create a video-editing app only for Google Play Store. In this
+platform the review scores are higher as well as the number of ratings. 
+
+It is also reasonable to say that we would be able to charge a price for it, due to its positive effect on the popularity of the app.
+Heuristically, it would be 0.99€, meaning the lower possible. Such choice could be motivated by the
+willingness to spark interest in users, which are empirically eager to review well a paid application.
+At the same time, we would cover production costs without the need for in-app purchases or longterm subscriptions,
+which showed to be likely to cause dissatisfaction in customers.
+
+The size constraint would be important, since it might slow the device of the users. This idea should
+not be extremized given evidence that dimension may be a proxy for good quality. Intuitively,
+applications with more features and better editing software occupy more memory, controlling for
+space-optimized development. A risk-less choice would be around 200 MB, the average of our mostly
+centered distribution. Incidentally, a reasonable size would avoid frequent app
+crashes, provided that the there are no systematic bugs.
+
+As a last note, design will be a crucial part of the app. Our analysis highlighted that this aspect is
+very much appreciated by customers, especially when efficient in terms of the keywords ’user-friendly’
+and ’clear’. Given our numerical results, a potential starting point in terms of specific binary features
+would be:
+• Stabilizer
+• Remove Middle Part
+• Free Vlog Music
+• Adjust Speed
+• Templates
+• Sync Text with video
+• Filter
+• Save video
+• Share on social networks
+• Export video
+• Add music
+• Stop Motion
+• Green screen
+It is important to stress that this is not an exclusive list but just a collection of factors that might
+turn out to be influential.
+
+A combination of the above arguments, thanks to the generality of our scraped data, would be a
+principled starting point to think about how to devise a video-editing app that successfully answers
+our main research question. Our Hypotheses have been discussed throughout the text and proved
+to be at least interesting perspectives, which at the same time suggested to design a broader view of
+our set of information.
